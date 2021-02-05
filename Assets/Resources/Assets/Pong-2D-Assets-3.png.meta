@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: d86933d8fc0baf8439e9796e3d0a761f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7252544846131090627
+    second: Pong-2D-Assets-3_0
+  - first:
+      213: 6602860258238220985
+    second: Pong-2D-Assets-3_1
+  - first:
+      213: -412736763176792662
+    second: Pong-2D-Assets-3_2
+  - first:
+      213: -1482692997232990833
+    second: Pong-2D-Assets-3_3
+  - first:
+      213: -5004885582015075579
+    second: Pong-2D-Assets-3_4
+  - first:
+      213: -7208516436964964036
+    second: Pong-2D-Assets-3_5
+  - first:
+      213: -5694696014986780472
+    second: Pong-2D-Assets-3_6
+  - first:
+      213: 869175360664672061
+    second: Pong-2D-Assets-3_7
+  - first:
+      213: -4943191577570502413
+    second: Pong-2D-Assets-3_8
+  - first:
+      213: -3540217904429970151
+    second: Pong-2D-Assets-3_9
+  - first:
+      213: -2591911582450050838
+    second: Pong-2D-Assets-3_10
+  - first:
+      213: 55516987757800916
+    second: Pong-2D-Assets-3_11
+  - first:
+      213: -7101827708883449886
+    second: Pong-2D-Assets-3_12
+  - first:
+      213: -5811698528029612772
+    second: Pong-2D-Assets-3_13
+  - first:
+      213: -750564721190516079
+    second: Pong-2D-Assets-3_14
+  - first:
+      213: -5878170748992365315
+    second: Pong-2D-Assets-3_15
+  - first:
+      213: -490307921071919773
+    second: Pong-2D-Assets-3_16
+  - first:
+      213: -8327481360200422358
+    second: Pong-2D-Assets-3_17
+  - first:
+      213: 6968042295328072246
+    second: Pong-2D-Assets-3_18
+  - first:
+      213: -3615600195463247474
+    second: Pong-2D-Assets-3_19
+  - first:
+      213: -3115440783422938521
+    second: Pong-2D-Assets-3_20
+  - first:
+      213: 9037843967106788159
+    second: Pong-2D-Assets-3_21
+  - first:
+      213: 3927915781519567689
+    second: Pong-2D-Assets-3_22
+  - first:
+      213: -4107616637460133505
+    second: Pong-2D-Assets-3_23
+  - first:
+      213: -6750851752414200869
+    second: Pong-2D-Assets-3_24
+  - first:
+      213: 8440934762551242584
+    second: Pong-2D-Assets-3_25
+  - first:
+      213: 7945964280489189436
+    second: Pong-2D-Assets-3_26
+  - first:
+      213: 9139161813656884408
+    second: Pong-2D-Assets-3_27
+  - first:
+      213: 4711492083953248371
+    second: Pong-2D-Assets-3_28
+  - first:
+      213: -5809684358587932350
+    second: Pong-2D-Assets-3_29
+  - first:
+      213: 2726307119457605532
+    second: Pong-2D-Assets-3_30
+  - first:
+      213: -2108407957649643988
+    second: Pong-2D-Assets-3_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 519
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b24c853e8c95b90800000000000000
+      internalID: -7252544846131090627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 439
+        width: 21
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba45d1eb6212ab50800000000000000
+      internalID: 6602860258238220985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 439
+        width: 22
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad4a15c91aa54af0800000000000000
+      internalID: -412736763176792662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 443
+        width: 39
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e7fc139a6c6be0800000000000000
+      internalID: -1482692997232990833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 441
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b648684131b8ab0800000000000000
+      internalID: -5004885582015075579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 441
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3983213e7436fb90800000000000000
+      internalID: -7208516436964964036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 442
+        width: 46
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c061ea652068f0b0800000000000000
+      internalID: -5694696014986780472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 443
+        width: 38
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3790fba26eef0c00800000000000000
+      internalID: 869175360664672061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 442
+        width: 41
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8153a4371466bb0800000000000000
+      internalID: -4943191577570502413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 439
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d49f2a29e9edec0800000000000000
+      internalID: -3540217904429970151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 442
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae818d6f52ea70cd0800000000000000
+      internalID: -2591911582450050838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 471
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddad4ef76c35c000800000000000000
+      internalID: 55516987757800916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 444
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c9fb635d317d90800000000000000
+      internalID: -7101827708883449886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 353
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15622ffaf2b85fa0800000000000000
+      internalID: -5811698528029612772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19acf7cdc557595f0800000000000000
+      internalID: -750564721190516079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 352
+        width: 161
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd73109da8c6ea0800000000000000
+      internalID: -5878170748992365315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 294
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da2f52b831239f0800000000000000
+      internalID: -490307921071919773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 291
+        width: 161
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2193e2d7de6c80800000000000000
+      internalID: -8327481360200422358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 290
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326de0ac8573b060800000000000000
+      internalID: 6968042295328072246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 236
+        width: 160
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89849b47cec2ddc0800000000000000
+      internalID: -3615600195463247474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762af412d1bb3c4d0800000000000000
+      internalID: -3115440783422938521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 151
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3baeca143fdc6d70800000000000000
+      internalID: 9037843967106788159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bef11a792c28630800000000000000
+      internalID: 3927915781519567689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 152
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7944ba6e60def6c0800000000000000
+      internalID: -4107616637460133505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 166
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb370649182052a0800000000000000
+      internalID: -6750851752414200869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 161
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fec1ec179342570800000000000000
+      internalID: 8440934762551242584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 158
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302080e96cb54e60800000000000000
+      internalID: 7945964280489189436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 76
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b455d78f33d4de70800000000000000
+      internalID: 9139161813656884408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 76
+        width: 12
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378291a7615926140800000000000000
+      internalID: 4711492083953248371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 76
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241293d5bdadf5fa0800000000000000
+      internalID: -5809684358587932350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9793eb61e9c5d520800000000000000
+      internalID: 2726307119457605532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pong-2D-Assets-3_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 89
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26afa2222e6db2e0800000000000000
+      internalID: -2108407957649643988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
